@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1614548041 source:d:\ps-gr4-muszynskanatalia\lab 0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
