@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1616357119 source:c:\studia\programowanie c++\code blocks\lab3\2.2.5.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1615803839 source:c:\studia\programowanie c++\code blocks\lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1615803839 source:c:\studia\programowanie c++\code blocks\lab3\2.2.11.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1616357130 source:c:\studia\programowanie c++\code blocks\lab3\2.2.7.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1616355192 source:c:\studia\programowanie c++\code blocks\lab3\2.2.8.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
