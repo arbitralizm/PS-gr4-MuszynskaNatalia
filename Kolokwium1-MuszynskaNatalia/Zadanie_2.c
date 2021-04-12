@@ -10,12 +10,16 @@ int funkcja(int n, int m, int p)
         wynik *= x;
 
     }
+    if(n==0 || m==0 || p==0)
+    {
+        printf("Blad");
+    }
     return wynik;
 }
 int main()
 {
     int n, m, p;
-    printf("Podaj liczby calkowite n, m, p, co najmniej jedna z liczb musi byæ ró¿na od 0: \n");
+    printf("Podaj liczby calkowite n, m, p, co najmniej jedna z liczb musi byc rozna od 0: \n");
     scanf("%d", &n);
     scanf("%d", &m);
     scanf("%d", &p);
